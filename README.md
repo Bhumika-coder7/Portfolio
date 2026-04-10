@@ -1,6 +1,6 @@
 # 🌐 Bhumika Gajbhiye — Portfolio Website
 
-> **Live Site:** https://bhumika-coder7.github.io/portfolio
+> **Live Site:** > **Live Site:** [https://bhumika-coder7.github.io/portfolio](https://github.com/Bhumika-coder7/Portfolio)
 
 A modern, fully responsive single-page portfolio website built with pure 
 HTML, CSS, and JavaScript — no frameworks, no dependencies.
